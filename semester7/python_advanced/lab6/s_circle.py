@@ -1,6 +1,4 @@
 import tkinter as tk
-# from math import pi
-
 window = tk.Tk()
 def s_circle(r,pi):
     r= r.get()
